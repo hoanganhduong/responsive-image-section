@@ -39,7 +39,7 @@ h1, p {
   padding-bottom: 1.5rem;
 }
 
-.img-flex {
+img {
   width: 100%;
   padding: 1rem 0;
   display: block;
@@ -82,7 +82,7 @@ a:hover {
     margin: 0 auto;
   }
 
-  .img, .content {
+  .img-flex, .content {
     width: 50%;
   }
 
