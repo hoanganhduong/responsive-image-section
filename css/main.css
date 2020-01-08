@@ -39,7 +39,7 @@ h1, p {
   padding-bottom: 1.5rem;
 }
 
-img {
+.img-flex {
   width: 100%;
   padding: 1rem 0;
   display: block;
